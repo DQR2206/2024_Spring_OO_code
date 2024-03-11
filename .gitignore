@@ -4,6 +4,9 @@
 /.settings/
 /.vscode/
 /bin/
+/out/
+/test/
+/META-INF/
 
 .gitignore
 .classpath
